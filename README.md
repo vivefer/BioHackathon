@@ -22,9 +22,14 @@ These references provide a comprehensive overview of the advancements in biosens
 
 Citations:
 [1] Detection of Amyloid-β(1–42) Aggregation With a Nanostructured ... https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2022.853947/full
+
 [2] A β-Amyloid(1-42) Biosensor Based on Molecularly Imprinted Poly ... https://pmc.ncbi.nlm.nih.gov/articles/PMC8064131/
+
 [3] Electrochemical Immunosensors Developed for Amyloid-Beta and ... https://www.mdpi.com/2079-6374/13/7/742
+
 [4] SiC Electrochemical Sensor Validation for Alzheimer Aβ 42 ... https://www.mdpi.com/2072-666X/14/6/1262
+
 [5] A highly sensitive plasma-based amyloid-β detection system through ... https://www.nature.com/articles/s41598-017-09370-3
+
 [6] Toward potential diagnosis of Alzheimer's disease - Theranostics https://www.thno.org/v08p2289.htm
 
