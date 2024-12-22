@@ -1,4 +1,4 @@
-This repositary is to store all of codes for the Project MutraSuchak made in Biohackathon, Kathmandu University.
+This repositary is to store all of codes for the Project MutraSuchak made in Biohackathon, Kathmandu University as Team called CryoSages.
 
 Following are all the reference papers, we used for Literature Review.
 
@@ -32,4 +32,15 @@ Citations:
 [5] A highly sensitive plasma-based amyloid-β detection system through ... https://www.nature.com/articles/s41598-017-09370-3
 
 [6] Toward potential diagnosis of Alzheimer's disease - Theranostics https://www.thno.org/v08p2289.htm
+
+
+Following is the Youtube Video links we made to describe our whole project.
+Description Video:
+
+https://youtu.be/H-nbVKMhHgs?si=ic4mHOy0DcVPx9Kk
+
+Demonstration Video:
+
+https://youtube.com/shorts/DTcjQqyTGqU?si=_kh1WsAcv9VjRlm9
+
 
